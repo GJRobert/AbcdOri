@@ -1,6 +1,6 @@
 /* Palette: https://colors.muz.li/palette/454d66/309975/58b368/dad873/efeeb4 */
 body {
-    font-family: Athelas, 'jf蘭陽明體1.0', Daehan, HanaMinB, 'Doulos SIL', serif !important;
+    font-family: Athelas, 'jf蘭陽明體1.0', serif !important;
     font-size: 20pt !important;
     line-height: 1.5em !important;
     letter-spacing: 0.03em !important;
@@ -13,19 +13,13 @@ h1 {
     font-size: 2em !important;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
     font-weight: 700 !important;
     color: #309975;
     margin-top: 1em !important;
 }
 
-p,
-li {
+p, li {
     text-align: justify;
 }
 
@@ -48,31 +42,12 @@ h3 {
     font-size: 1.2em !important;
 }
 
-.abcdori,
-.abcdori-table td:not([class='non-abcdori']) {
+.abcdori {
     text-shadow: 2px 2px 15px #309975;
-}
-
-.non-abcdori {
-    font-size: smaller;
-    color: grey !important;
-}
-
-.POJ {
-    font-family: jf蘭陽明體1.0, serif;
 }
 
 .imp {
     font-weight: bold;
-    font-size: 1.5em;
-    line-height: 1.2em;
-    letter-spacing: 0.15em;
-}
-
-div.alert strong {
-    display: block;
-    line-height: 300%;
-    float: left;
-    vertical-align: middle;
-    margin-right: 0.5em;
+    font-size: 150%;
+    letter-spacing: 0.2em;
 }

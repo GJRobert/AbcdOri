@@ -1,0 +1,24 @@
+/* Palette: https://colors.muz.li/palette/454d66/309975/58b368/dad873/efeeb4 */
+
+body {
+    font-family: Athelas, 'jf蘭陽明體1.0', serif;
+    font-size: 20pt;
+    line-height: 30pt;
+    letter-spacing: 0.03em;
+    padding: 5%;
+    background: #efeeb4;
+    color: #454d66;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #309975;
+}
